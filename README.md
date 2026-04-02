@@ -52,13 +52,6 @@ Built a complete ML pipeline to predict binary customer outcomes (churn/retentio
 - Applied SHAP analysis for transparent, instance-level explanations
 - Confirmed engineered features (`f3_f4_diff`, `f1_f2_ratio`) as top contributors
 
-## Repository Structure
-├── ML_Final_Project.ipynb    # Complete analysis notebook
-├── README.md                 # This file
-├── data/
-│   └── final_project_dataset_complete.csv
-└── requirements.txt          # Dependencies
-
 ## How to Run
 
 ```bash
